@@ -1,0 +1,10 @@
+{
+    "name": "peterkacinec/modal",
+    "authors": [
+        {
+            "name": "Peter Kacinec",
+            "email": "kacinec.peter@gmail.com"
+        }
+    ],
+    "require": {}
+}
