@@ -1,4 +1,4 @@
-# SimpleTable for Laravel
+# Modal vue component for Laravel
 
 ## Installation
 
