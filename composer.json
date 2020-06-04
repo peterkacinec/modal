@@ -1,10 +1,15 @@
 {
     "name": "peterkacinec/modal",
+    "description": "Modal Vue component",
+    "keywords": ["modal"],
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Peter Kacinec",
             "email": "kacinec.peter@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
